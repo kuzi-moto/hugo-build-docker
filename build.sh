@@ -1,1 +1,1 @@
-sudo docker build -t hugobuild .
+sudo docker build -t hugo-build-docker .
