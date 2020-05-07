@@ -1,3 +1,3 @@
 #!/bin/sh
 
-hugo --source="/src" --destination="/output"
+hugo --source="/src" --destination="/output" --verbose
